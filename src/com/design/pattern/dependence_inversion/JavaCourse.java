@@ -1,4 +1,4 @@
-package com.design.pattern.dependence.inversion;
+package com.design.pattern.dependence_inversion;
 
 public class JavaCourse implements Course{
     public void studyCourse() {

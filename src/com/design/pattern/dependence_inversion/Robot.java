@@ -1,4 +1,4 @@
-package com.design.pattern.dependence.inversion;
+package com.design.pattern.dependence_inversion;
 
 public class Robot {
     public void study(Course course){
